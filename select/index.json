@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "HARROW",
+  "base_artist": "MILGRAM コトコ (CV: 愛美)、愛美",
+  "createdAt": "2026-03-31T11:57:07.112272Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "I Hung My Heart On Harrow Square",
+      "artist": "Vulture Industries",
+      "has_synced": true,
+      "path": "select/01_I_Hung_My_Heart_On_Harrow_Square_Vulture_Industries.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Harrow of Skulls",
+      "artist": "Backworld",
+      "has_synced": false,
+      "path": "select/02_Harrow_of_Skulls_Backworld.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Harrow Accident",
+      "artist": "Nits",
+      "has_synced": false,
+      "path": "select/03_Harrow_Accident_Nits.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Harrow",
+      "artist": "Creak",
+      "has_synced": true,
+      "path": "select/04_Harrow_Creak.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Harrow Road",
+      "artist": "Big Audio Dynamite feat. Ranking Roger",
+      "has_synced": true,
+      "path": "select/05_Harrow_Road_Big_Audio_Dynamite_feat._Ranking_Roger.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Harrow Road",
+      "artist": "Big Audio Dynamite",
+      "has_synced": true,
+      "path": "select/06_Harrow_Road_Big_Audio_Dynamite.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "HARROW",
+      "artist": "MILGRAM コトコ (CV: 愛美)",
+      "has_synced": true,
+      "path": "select/07_HARROW_MILGRAM_コトコ_(CV__愛美).lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "The Harrow",
+      "artist": "Grand Harvest",
+      "has_synced": true,
+      "path": "select/08_The_Harrow_Grand_Harvest.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Stain of Harrow",
+      "artist": "Nazxul",
+      "has_synced": false,
+      "path": "select/09_Stain_of_Harrow_Nazxul.txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "The Harrow and the Haunted",
+      "artist": "The Decemberists",
+      "has_synced": false,
+      "path": "select/10_The_Harrow_and_the_Haunted_The_Decemberists.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Harrow Road (Ska Mix)",
+      "artist": "Big Audio",
+      "has_synced": false,
+      "path": "select/11_Harrow_Road_(Ska_Mix)_Big_Audio.txt"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Harrow Road",
+      "artist": "KNEECAP",
+      "has_synced": true,
+      "path": "select/12_Harrow_Road_KNEECAP.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "For the Love of It (David Harrow mix)",
+      "artist": "Salmonella Dub",
+      "has_synced": false,
+      "path": "select/13_For_the_Love_of_It_(David_Harrow_mix)_Salmonella_Dub.txt"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Harrow",
+      "artist": "Torch Runner",
+      "has_synced": false,
+      "path": "select/14_Harrow_Torch_Runner.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Harrow Road (feat. Jelani Blackman)",
+      "artist": "Kneecap",
+      "has_synced": false,
+      "path": "select/15_Harrow_Road_(feat._Jelani_Blackman)_Kneecap.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "HARROW",
+      "artist": "MILGRAM コトコ (CV: 愛美)",
+      "has_synced": false,
+      "path": "select/pl_01_HARROW_MILGRAM_コトコ_(CV__愛美).txt"
+    }
+  ]
+}
